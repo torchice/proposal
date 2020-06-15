@@ -1,7 +1,8 @@
 Program that manage Proposal System(STILL IN DEVELOPE)
 
-<br><br>
+
 Features:
+
 - Create Proposal
 - Request New Price Item
 - Change Price Item
@@ -11,6 +12,7 @@ Features:
 - Report History Price
 
 How To use:
+
 1. Request New Price
 2. Confirm/Reject The price
 3. Create Proposal then add the item
