@@ -1,4 +1,6 @@
 Program that manage Proposal System(STILL IN DEVELOPE)
+
+<br><br>
 Features:
 - Create Proposal
 - Request New Price Item
